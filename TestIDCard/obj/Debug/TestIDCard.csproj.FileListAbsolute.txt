@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\bin\Debug\TestIDCard.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\bin\Debug\TestIDCard.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\obj\Debug\TestIDCard.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\obj\Debug\TestIDCard.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\obj\Debug\TestIDCard.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\obj\Debug\TestIDCard.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\obj\Debug\TestIDCard.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\obj\Debug\TestIDCard.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\bin\Debug\TestIDCard.exe.config
+C:\Users\Lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\bin\Debug\pcsc-sharp.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\TestIDCard\TestIDCard\bin\Debug\ThaiNationalIDCard.dll
